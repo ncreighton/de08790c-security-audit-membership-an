@@ -1,2 +1,59 @@
-# de08790c-security-audit-membership-an
-Stop guessing who accessed your restricted content—your membership site leaks data every time a user exploits a vulnerability or a role slips through the cracks.  This plugin fuses a full security audit engine with granular membership and access control, giving you real-time vulnerability scanning, automated audit logs, and role-based restrictions
+=== Security & Audit Membership and Access Control WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Tiered memberships, drip content, community forums, and payment gating. Recurring revenue with content protection.
+
+== Description ==
+
+Tiered memberships, drip content, community forums, and payment gating. Recurring revenue with content protection.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Security & Audit Membership and Access Control WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6bJ17r17Eo4pq5bucZm1n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6bJ17r17Eo4pq5bucZm1n)
+
